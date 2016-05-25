@@ -1,5 +1,0 @@
-D:\Projects\NavisionService\source\navision\bin\navision.dll.config
-D:\Projects\NavisionService\source\navision\bin\navision.dll
-D:\Projects\NavisionService\source\navision\bin\navision.pdb
-D:\Projects\NavisionService\source\navision\obj\Debug\navision.dll
-D:\Projects\NavisionService\source\navision\obj\Debug\navision.pdb
